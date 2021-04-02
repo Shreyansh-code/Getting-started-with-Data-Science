@@ -1,6 +1,6 @@
 # Getting-started-with-Data-Science
 Data Science is said to be the sexiest job of 21st century.
-So here is an, introduction to important python libraries which you need to get started with Data Science.
+So here is an introduction of the important python libraries which you will need to get started with Data Science.
 In this repository, you can find jupyter notebooks explaining the basics of Pandas, Numpy, Seaborn and a simple data science project for you to see a glimpse of what you can achieve with these tools.
 ## pandas
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png)
